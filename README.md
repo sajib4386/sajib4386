@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Shahriar%20Hossain&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=65" />
 </p>
 
 <h2 align="center">Shahriar Hossain</h2>
@@ -8,79 +7,88 @@
 
 ---
 
-### 💼 About Me
+## 👨‍💻 About Me
 
-<p>I am a Full-Stack Web Developer with hands-on experience in building responsive, user-friendly, and scalable web applications. I enjoy working with modern web technologies and continuously improving my development skills. I am passionate about clean code, intuitive UI/UX, and practical problem-solving.</p>
-
----
-
-### 🚀 Current Activities
-
-• Exploring advanced React concepts  
-• Working on a B2B asset management system (AssetVerse)  
-• Building a movie-related web application (Movie Master Pro)
+I am a passionate Full-Stack Web Developer with hands-on experience in building modern, responsive, and scalable web applications.  
+I enjoy working with JavaScript-based technologies and love creating clean UI with smooth user experience.  
+Always eager to learn new tools and improve my problem-solving skills through real-world projects.
 
 ---
 
-### 🛠 Skills
+## 🚀 Current Activities
 
-**Frontend**  
+- 🌱 Exploring advanced **React & Next.js**
+- 🏢 Working on a **B2B Corporate Asset Management System (AssetVerse)**
+- 🎬 Building a **Movie-related web application (Movie Master Pro)**
 
+---
+
+## 🛠 Skills
+
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-**Backend**
-
+### ⚙ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**Tools & Technologies**
-
+### 🧰 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 </p>
 
 ---
 
-### 🌐 Socials
+## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/sajib4386"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  
-  <a href="https://www.linkedin.com/in/shahriar-hossain-sajib/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  
-  <a href="mailto:shahriar4386@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  
-  <a href="https://wa.me/8801840476943"><img src="https://skillicons.dev/icons?i=whatsapp" height="30"/></a>
+  <a href="https://github.com/sajib4386">
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahriar-hossain-sajib/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="mailto:shahriar4386@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
 </p>
 
 ---
 
-### 📌 Pinned Repositories
+## 📌 Pinned Repositories
 
-Here are some of my key projects:
+### 🚀 Featured Projects
 
-1. **AssetVerse** – B2B Corporate Asset Management System ([Repository Link](https://github.com/sajib4386/Asset-verse-Client.git))
-2. **Movie Master Pro** – Movie browsing and review web application ([Repository Link](https://github.com/sajib4386/movie-master-pro-client.git))
-3. **Hero Apps** – Web app with dashboard, ratings, download stats, and responsive UI. ([Repository Link](https://github.com/sajib4386/Hero-Apps.git))
+- **AssetVerse** – B2B Corporate Asset Management System  
+  🔗 https://github.com/sajib4386/Asset-verse-Client.git
 
+- **Movie Master Pro** – Movie browsing & review web application  
+  🔗 https://github.com/sajib4386/movie-master-pro-client.git
+
+- **Hero Apps** – Dashboard-based web app with ratings & download stats  
+  🔗 https://github.com/sajib4386/Hero-Apps.git
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=react&count_private=true&hide_border=false" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=react&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=react&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react" />
 </p>
 
+---
 
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
