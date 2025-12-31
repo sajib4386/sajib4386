@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Shahriar%20Hossain&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=65" />
 </p>
 
-<h2 align="center">Shahriar Hossain</h2>
-<h3 align="center">Full-Stack Web Developer</h3>
-
 ---
 
 ## 👨‍💻 About Me
@@ -76,16 +73,17 @@ Always eager to learn new tools and improve my problem-solving skills through re
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=sajib4386&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=sajib4386&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=sajib4386&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
