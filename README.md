@@ -51,8 +51,8 @@ Always eager to learn new tools and improve my problem-solving skills through re
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   
-  <a href="https://www.facebook.com/shahriar.hossain.274597">
-  <img src="https://img.shields.io/badge/-f-%231877F2?style=plastic&logo=facebook&logoColor=white" height="35"/>
+<a href="https://www.facebook.com/shahriar.hossain.274597">
+  <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
 </a>
 
 </p>
