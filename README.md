@@ -72,16 +72,30 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=tokyonight" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=tokyonight&hide_border=true"
+        height="170"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://streak-stats.demolab.com?user=sajib4386&theme=tokyonight&hide_border=true"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sajib4386&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
 
 
