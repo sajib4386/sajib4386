@@ -65,15 +65,15 @@ Always eager to learn new tools and improve my problem-solving skills through re
 ### 🚀 Featured Projects
 
 - **AssetVerse** – B2B Corporate Asset Management System  
-  Repository: https://github.com/sajib4386/Asset-verse-Client.git
+  Repository: https://github.com/sajib4386/Asset-verse-Client.git  
   Live URL: https://asset-verse-client.web.app/
 
 - **Movie Master Pro** – Movie browsing & review web application  
-  Repository: https://github.com/sajib4386/movie-master-pro-client.git
+  Repository: https://github.com/sajib4386/movie-master-pro-client.git  
   Live URL: https://movie-master-pro-2891c.web.app/
 
 - **Hero Apps** – Dashboard-based web app with ratings & download stats  
- Repository: https://github.com/sajib4386/Hero-Apps.git
+ Repository: https://github.com/sajib4386/Hero-Apps.git  
  Live URL: https://hero-apps-43.netlify.app/
 
 
