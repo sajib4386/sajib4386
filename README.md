@@ -37,19 +37,27 @@ Always eager to learn new tools and improve my problem-solving skills through re
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 </p>
 
----
+---  
 
-## 🌐 Connect With Me
+## 📫 Contact Me  
+- 📧 Email: shahriar4386@gmail.com
+- 📱 Contact Number (WhatsApp): +8801840476943
+
+## 🌐 Social
+
+## 🌐 Social
 
 <p>
   <a href="https://github.com/sajib4386">
     <img src="https://skillicons.dev/icons?i=github" height="35"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/shahriar-hossain-sajib/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="mailto:shahriar4386@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  
+  <a href="https://www.facebook.com/shahriar.hossain.274597">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
   </a>
 </p>
 
