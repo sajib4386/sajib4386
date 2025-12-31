@@ -44,16 +44,13 @@ Always eager to learn new tools and improve my problem-solving skills through re
 ## 🌐 Social
 <p>
   <a href="https://github.com/sajib4386">
-    <img src="https://skillicons.dev/icons?i=github" height="35" margin-right="5"/>
+    <img src="https://skillicons.dev/icons?i=github" height="35" margin-right="10"/>
   </a>
   
   <a href="https://www.linkedin.com/in/shahriar-hossain-sajib/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" margin-right="5">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" margin-right="10">
   </a>
   
-  <a href="https://www.facebook.com/shahriar.hossain.274597">
-  <img src="https://img.shields.io/badge?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
-  </a>
 </p>
 
 
