@@ -13,7 +13,7 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ## 🚀 Current Activities
 
-- 🌱 Exploring advanced **React & Next.js**
+- 🌱 Exploring advanced **React & Node.js**
 - 🏢 Working on a **B2B Corporate Asset Management System (AssetVerse)**
 - 🎬 Building a **Movie-related web application (Movie Master Pro)**
 
