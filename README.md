@@ -44,18 +44,18 @@ Always eager to learn new tools and improve my problem-solving skills through re
 ## 🌐 Social
 <p>
   <a href="https://github.com/sajib4386">
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+    <img src="https://skillicons.dev/icons?i=github" height="35" style="margin-right:10px;"/>
   </a>
   
   <a href="https://www.linkedin.com/in/shahriar-hossain-sajib/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right:10px;"/>
   </a>
   
-<a href="https://www.facebook.com/shahriar.hossain.274597">
-  <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
-</a>
-
+  <a href="https://www.facebook.com/shahriar.hossain.274597">
+    <img src="https://skillicons.dev/icons?i=facebook&color=1877f2" height="35"/>
+  </a>
 </p>
+
 
 
 ## 📌 Pinned Repositories
