@@ -76,7 +76,7 @@ Always eager to learn new tools and improve my problem-solving skills through re
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?user=sajib4386&show_icons=true&theme=react&count_private=true" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Always eager to learn new tools and improve my problem-solving skills through re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=sajib4386&layout=compact&theme=react" />
 </p>
 
 ---
