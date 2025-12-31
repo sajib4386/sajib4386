@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header&text=Shahriar%20Hossain&fontSize=36&fontColor=ffffff](https://i.ibb.co.com/qYP94n7q/LOGO.png)" />
+  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png" />
 </p>
 
 <h2 align="center">Shahriar Hossain</h2>
