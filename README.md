@@ -10,7 +10,6 @@ I am a passionate Full-Stack Web Developer with hands-on experience in building 
 I enjoy working with JavaScript-based technologies and love creating clean UI with smooth user experience.  
 Always eager to learn new tools and improve my problem-solving skills through real-world projects.
 
----
 
 ## 🚀 Current Activities
 
@@ -18,7 +17,6 @@ Always eager to learn new tools and improve my problem-solving skills through re
 - 🏢 Working on a **B2B Corporate Asset Management System (AssetVerse)**
 - 🎬 Building a **Movie-related web application (Movie Master Pro)**
 
----
 
 ## 🛠 Skills
 
@@ -37,11 +35,11 @@ Always eager to learn new tools and improve my problem-solving skills through re
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 </p>
 
----  
 
 ## 📫 Contact Me  
 - 📧 Email: shahriar4386@gmail.com
 - 📱 Contact Number (WhatsApp): +8801840476943
+
 
 ## 🌐 Social
 <p>
@@ -58,22 +56,23 @@ Always eager to learn new tools and improve my problem-solving skills through re
   </a>
 </p>
 
----
 
 ## 📌 Pinned Repositories
 
 ### 🚀 Featured Projects
 
 - **AssetVerse** – B2B Corporate Asset Management System  
-  🔗 https://github.com/sajib4386/Asset-verse-Client.git
+  Repository: https://github.com/sajib4386/Asset-verse-Client.git
+  Live URL: https://asset-verse-client.web.app/
 
 - **Movie Master Pro** – Movie browsing & review web application  
-  🔗 https://github.com/sajib4386/movie-master-pro-client.git
+  Repository: https://github.com/sajib4386/movie-master-pro-client.git
+  Live URL: https://movie-master-pro-2891c.web.app/
 
 - **Hero Apps** – Dashboard-based web app with ratings & download stats  
-  🔗 https://github.com/sajib4386/Hero-Apps.git
+ Repository: https://github.com/sajib4386/Hero-Apps.git
+ Live URL: https://hero-apps-43.netlify.app/
 
----
 
 ## 📊 GitHub Stats
 
