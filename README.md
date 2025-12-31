@@ -44,9 +44,6 @@ Always eager to learn new tools and improve my problem-solving skills through re
 - 📱 Contact Number (WhatsApp): +8801840476943
 
 ## 🌐 Social
-
-## 🌐 Social
-
 <p>
   <a href="https://github.com/sajib4386">
     <img src="https://skillicons.dev/icons?i=github" height="35"/>
@@ -57,7 +54,7 @@ Always eager to learn new tools and improve my problem-solving skills through re
   </a>
   
   <a href="https://www.facebook.com/shahriar.hossain.274597">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="35"/>
   </a>
 </p>
 
