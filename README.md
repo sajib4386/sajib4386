@@ -52,7 +52,7 @@ Always eager to learn new tools and improve my problem-solving skills through re
   </a>
   
   <a href="https://www.facebook.com/shahriar.hossain.274597">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>
 </p>
 
