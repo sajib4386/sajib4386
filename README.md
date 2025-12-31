@@ -70,27 +70,21 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ---
 
-## 📊 Relevant GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=default"
-    alt="Total Contributions"
-  />
+  <img src="https://img.shields.io/badge/Total%20Contributions-224-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=default"
-    alt="GitHub Streak"
-  />
+  <img src="https://img.shields.io/badge/Current%20Streak-Active-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-17%20Days-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact"
-    alt="Languages Used"
-  />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
 </p>
 
 ---
