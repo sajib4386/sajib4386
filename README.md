@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png" />
+  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png" height="100"/>
 </p>
 
 <h2 align="center">Shahriar Hossain</h2>
@@ -82,3 +82,4 @@ Here are some of my key projects:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react&count_private=false" alt="Top Languages" />
 </p>
+
