@@ -70,22 +70,44 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-Active-blue?style=for-the-badge&logo=github" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Contributions-Active-blue?style=for-the-badge&logo=github" />
+      <br/>
+      <sub><b>Contributions</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Current%20Streak-Ongoing-orange?style=for-the-badge&logo=firefox" />
+      <br/>
+      <sub><b>Streak</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Languages-Used-green?style=for-the-badge&logo=code" />
+      <br/>
+      <sub><b>Top Languages</b></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Streak-Ongoing-orange?style=for-the-badge&logo=firefox" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-Consistent-red?style=for-the-badge&logo=git" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Most%20Used-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-Most%20Used-yellow?style=flat-square&logo=javascript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
