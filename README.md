@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png" height="100"/>
+  <img src="https://i.ibb.co.com/qYP94n7q/LOGO.png" height="100" width="auto"/>
 </p>
 
 <h2 align="center">Shahriar Hossain</h2>
@@ -72,14 +72,15 @@ Here are some of my key projects:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=react&count_private=false" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajib4386&show_icons=true&theme=react&count_private=true&hide_border=false" alt="GitHub Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajib4386&theme=react&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react&count_private=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
 </p>
+
 
