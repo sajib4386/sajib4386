@@ -79,9 +79,11 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ## 📊 GitHub Stats
 
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=sajib4386&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sajib4386&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
