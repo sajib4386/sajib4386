@@ -79,14 +79,9 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-224-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Streak-Active-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-17%20Days-red?style=for-the-badge" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=sajib4386&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sajib4386&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib4386&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript" />
@@ -99,4 +94,4 @@ Always eager to learn new tools and improve my problem-solving skills through re
 
 <p align="center">
   💙 Thanks for visiting my profile!
-</p>
+</p>  
